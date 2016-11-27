@@ -70,10 +70,14 @@ body{
 
 .portada{
   background-image: url('images/background.png');
-  background-size: auto;
+  background-size: cover;
   color: white;
-  background-position:center;;
-  padding:;
+
+}
+
+.menu a{
+  color: white;
+  margin-right: 50px;
 }
 
 .button{
